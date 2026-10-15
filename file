@@ -1,0 +1,2 @@
+!pip install -q streamlit groq
+!npm install -g localtunnel
